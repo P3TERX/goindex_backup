@@ -1,5 +1,5 @@
-![GoIndex](https://raw.githubusercontent.com/donwa/goindex/master/themes/logo.png)  
-  
+![GoIndex](themes/logo.png)
+
 GoIndex  
 ====  
 Google Drive Directory Index  
